@@ -12,13 +12,13 @@ body {
   display: flex;
   justify-content: center;
   align-content: center;
-  padding: 1rem;
+  padding: 1.5rem 1rem;
   
 }
 
 .navbar > * {
   padding: 0 .5rem 0 1rem;
-  
+  color: white;
 }
 
 .entry--log {
@@ -52,12 +52,13 @@ body {
   
   padding: 1rem 2rem;
 }
-.fas {
+.entry--line{
  color: tomato;
 }
 .entry--country{
   padding: 0rem .5rem;
   font-size: 16px;
+  color: black;
   font-weight: 500;
   letter-spacing: 3px;
   text-transform: uppercase ;

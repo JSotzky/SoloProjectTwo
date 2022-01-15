@@ -69,6 +69,7 @@ body {
   padding-left: 1rem;
   text-decoration: underline;
   color: hsl(34, 0%, 71%);
+  text-transform: capitalize;
 }
 
 .entry--location {
